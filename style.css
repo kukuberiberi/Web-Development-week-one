@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    background-color: beige;
+    font: bolder;
+}
+h3 {
+    color: yellowgreen;
+    font: bolder;
+}
+h4 {
+    color: rgb(183, 0, 255);
+    background-color: rgb(160, 190, 194);
+}
+p {
+    color: gray;
+}
